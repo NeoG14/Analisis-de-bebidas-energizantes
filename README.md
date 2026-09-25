@@ -1,13 +1,13 @@
-# Análisis  de datos aplicado a una nueva bebida energizante
+# [Análisis  de datos aplicado a una nueva bebida energizante](Energizantes.ipynb)
 ## Planteamiento del Problema
 MegaBoost es una marca de bebidas energizantes de Inglaterra y desea ingresar al mercado italiano. Hace algunos meses lanzaron su bebida en 10 ciudades de Italia.
 
 El equipo de marketing está a cargo de incrementar el posicionamiento de la marca y la participación en el mercado, además de apoyar el desarrollo del producto. Para esto aplicaron una encuesta a 10.000 personas en esas 10 ciudades.
 
 ## Set de datos
-- Formato de encuesta realizada a 10.000 personas
-- Dataset principal (.csv) con 10.000 respuestas de la encuesta.
-- Metadatos con la descripción de la información contenida en el set de datos
+- [Formato de encuesta realizada a 10.000 personas](metadata/encuesta_bebida_energizante.pdf)
+- [Dataset principal (.csv) con 10.000 respuestas de la encuesta](data/dataset_bebida_energizante.csv)
+- [Metadatos con la descripción de la información contenida en el set de datos](metadata/metadatos_dataset_bebida_energizante.txt)
 
 ## Metodología
 - Tratamiento de datos: Limpieza de nulos, eliminación de duplicados y formateo de tipos de datos con `NumPy` y `Pandas` 
