@@ -34,3 +34,18 @@ El equipo de marketing está a cargo de incrementar el posicionamiento de la mar
 
 ![](plots/canales_marketing.png)
 
+- **Preferencias del Consumidor:**
+  - Ingredientes: Los preferidos son la cafeína y las vitaminas.
+  - Empaque: Predilección por las latas portables y compactas.
+  - Ocasiones de consumo: Las situaciones más comunes son al hacer deporte o al trabajar/estudiar hasta tarde.
+  - Puntos de venta: La mayor parte de las compras se realizan en supermercados.
+  - Factores de decisión: Influyen principalmente la reputación de la marca, el sabor y la disponibilidad en góndola.
+  - Sugerencias de usuarios: Reducir el contenido de azúcar y agregar más ingredientes naturales.
+ 
+  ## Recomendaciones
+1. Mantener estrategias de publicidad dirigidas a hombres entre los 19 y 30 años, especialmente en la modalidad online y publicidad en medios de televisión dirigidas a los rangos de 31 a 65 o más años.
+2. Reforzar las estrategias de publicidad dirigidas a dos segmentos: (1) los géneros mujeres y no binario y (2) en las ciudades de Palermo, Florencia, Venecia, Pisa, Turín, Génova, Verona, Siena
+3. Modificar la fórmula para alinear el sabor con las preferencias de los consumidores, reducir el azúcar y añadir más ingredientes naturales como cafeína y vitaminas.
+4. Fortalecer la cadena de distribución para garantizar que nuestra bebida esté disponible en las ciudades de interés y de forma prioritaria en los supermercados.
+5. Mantener la comercialización en latas portables y compactas, orientando el mensaje de las campañas hacia los dos escenarios de consumo más frecuentes: hacer deporte y energia para rendir en el trabajo/estudio.
+
