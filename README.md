@@ -14,32 +14,23 @@ El equipo de marketing está a cargo de incrementar el posicionamiento de la mar
 - Análisis exploratorio (EDA): Identificación de patrones de consumo por ciudad y grupo demográfico.
 - Visualización: Generación de gráficos analíticos utilizando `Matplotlib`
 
-## Tareas a realizar
-Su labor es extraer los siguientes *insights* a partir de los datos:
-
-- **Demográficos:**
-    - ¿Quiénes prefieren esta bebida energética?
-    - ¿Qué rangos de edad tienden a preferir la bebida?
+## Insights
+- **Perfil Demográfico:** El género que más consume nuestra bebida son los hombres, y el grupo de edad con más consumidores de nuestro producto es el de 19 a 30 años (55%), seguido por el rango de 31 a 45 años (24.7%)
  
-- **Análisis de la competencia:**
-    - ¿Quiénes son los actuales líderes del mercado?
+![](plots/rango_edades.png)
 
-- **Canales de mercadeo y conocimiento de la marca:**
-    - ¿Cuál es el canal de mercadeo más efectivo?
-    
-- **Penetración de la marca:**
-    - ¿Qué piensa la gente de nuestra marca?
-    - ¿En qué ciudades debemos reforzar este posicionamiento?
-    - ¿Por qué los consumidores prefieren otras marcas y no las nuestras?
+- **Competencia y Posicionamiento:** Los líderes actuales del mercado son Coca-Cola (25.38%), Pepsi (21.12%) y Monster (18.54%), acumulando cerca del 65% de participación. MegaBoost se encuentra en el 5º lugar con un 9.80% de cuota de mercado.
 
-- **Preferencias del consumidor:**
-    - ¿Cuáles son los ingredientes preferidos?
-    - ¿Qué tipo de paquetes son los preferidos?
+![](plots/dominio_marcas.png)
 
-- **Comportamientos de compra:**
-    - ¿Dónde prefieren las personas comprar bebidas energizantes?
-    - ¿Cuáles son las situaciones típicas de consumo de bebibas energéticas?
-    - ¿Qué factores influyen más en las decisiones de compra de las personas?
+- **Percepción de Marca:**
+  - Nuestra marca y logo no generan suficiente recordación en los compradores y los consumidores no están del todo satisfechos con el sabor de la bebida.
+  - En 8 de las 10 ciudades italianas con presencia, la gente NO conoce nuestra marca.
+  - Los consumidores prefieren otras marcas debido a su reputación, disponibilidad y sabor.
+ 
+![](plots/posicionamiento_marca.png)
 
-- **Desarrollo de producto:**
-    - ¿Qué área deberíamos priorizar para el desarrollo y mejora del producto?
+- **Canales de Marketing Efectivos:** La publicidad online y la televisión son los medios más efectivos. La publicidad online predomina ampliamente en el rango de 15–30 años (48.1%), mientras que la TV cobra mayor relevancia en el grupo de 31 a 65+ años (30.2%).
+
+![](plots/canales_marketing.png)
+
