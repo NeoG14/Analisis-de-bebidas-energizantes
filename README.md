@@ -17,7 +17,7 @@ El equipo de marketing está a cargo de incrementar el posicionamiento de la mar
 ## Insights
 - **Perfil Demográfico:** El género que más consume nuestra bebida son los hombres, y el grupo de edad con más consumidores de nuestro producto es el de 19 a 30 años (55%), seguido por el rango de 31 a 45 años (24.7%)
  
-![](plots/rango_edades.png)
+![](plots/rango_edades_2.png)
 
 - **Competencia y Posicionamiento:** Los líderes actuales del mercado son Coca-Cola (25.38%), Pepsi (21.12%) y Monster (18.54%), acumulando cerca del 65% de participación. MegaBoost se encuentra en el 5º lugar con un 9.80% de cuota de mercado.
 
